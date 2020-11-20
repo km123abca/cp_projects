@@ -1,0 +1,40 @@
+.marker {
+  stroke: #f8c102;
+  height: 24px;
+  width: 24px;
+  transform: translate(-50%, -100%);
+}
+.popup {
+  /* max-width:300px; */
+  width: 20vw;
+  padding: 1rem;
+}
+
+.error {
+  fill: #ff0000;
+}
+.marker.yellow path {
+  fill: #f3b73e;
+}
+
+.marker.red path {
+  fill: #f3773e;
+}
+
+.entry-form label,
+.entry-form input,
+.entry-form textarea,
+.entry-form button {
+  margin: 0.5rem 0;
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.popup img {
+  width: auto;
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
