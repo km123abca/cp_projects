@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Facebook from "./Facebook/Facebook";
 import TravelLog from "./TravelLog/TravelLog";
+import CvdTrker from "./CvdTrker/CvdTrker";
+
 import FileUpload from "./FileUpload/FileUpload";
 
 function App() {
@@ -12,6 +14,9 @@ function App() {
         <Switch>
           <Route path="/fb">
             <Facebook />
+          </Route>
+          <Route path="/cvt">
+            <CvdTrker />
           </Route>
           <Route path="/tl">
             <TravelLog />
