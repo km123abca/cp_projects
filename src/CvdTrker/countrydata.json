@@ -1,0 +1,33 @@
+{
+  "updated": 1606394851323,
+  "country": "UK",
+  "countryInfo": {
+    "_id": 826,
+    "iso2": "GB",
+    "iso3": "GBR",
+    "lat": 54,
+    "long": -2,
+    "flag": "https://disease.sh/assets/img/flags/gb.png"
+  },
+  "cases": 1557007,
+  "todayCases": 0,
+  "deaths": 56533,
+  "todayDeaths": 0,
+  "recovered": 0,
+  "todayRecovered": 0,
+  "active": 1500474,
+  "critical": 1489,
+  "casesPerOneMillion": 22887,
+  "deathsPerOneMillion": 831,
+  "tests": 41858783,
+  "testsPerOneMillion": 615299,
+  "population": 68029959,
+  "continent": "Europe",
+  "oneCasePerPeople": 44,
+  "oneDeathPerPeople": 1203,
+  "oneTestPerPeople": 2,
+  "activePerOneMillion": 22056.08,
+  "recoveredPerOneMillion": 0,
+  "criticalPerOneMillion": 21.89
+}
+//  https://disease.sh/v3/covid-19/countries/uk
