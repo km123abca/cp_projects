@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=rJjaqSTzOxI&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=11
+
+13.02:. npx create-react-app twitter-clone
+
+15.32: 
+Go to firebase
+Add a Project
+Name your project (twitter-clone)
+Choose or not choose Google analytics
+Create Project
+ 
+20.37: 
+App.test.js, logo.svg and setupTests.js are deleted

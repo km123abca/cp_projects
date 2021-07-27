@@ -4,8 +4,10 @@ import "./App.css";
 import Facebook from "./Facebook/Facebook";
 import TravelLog from "./TravelLog/TravelLog";
 import CvdTrker from "./CvdTrker/CvdTrker";
+import GoogleMaps from "./googlemaps/GoogleMaps";
 
 import FileUpload from "./FileUpload/FileUpload";
+import Twitter from "./Twitter/Twitter";
 
 function App() {
   return (
@@ -21,6 +23,13 @@ function App() {
           <Route path="/tl">
             <TravelLog />
           </Route>
+          <Route path="/maps">
+            <GoogleMaps />
+          </Route>
+          <Route path="/twitter">
+            <Twitter />
+          </Route>
+
           <Route path="/fu">
             <FileUpload />
           </Route>
